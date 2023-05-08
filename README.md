@@ -1,2 +1,1 @@
-# React
-Learning React
+### Шпора по React.
